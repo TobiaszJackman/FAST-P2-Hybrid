@@ -1,0 +1,13 @@
+{
+	"file": "https://raw.githubusercontent.com/TobiaszJackman/FAST-P2-Hybrid/master/P2%20Hybrid%20-%20Narrow%20Search.csv",
+	"name": "P2 Hybrid Patents",
+	"header": 0,
+	"separator": ",",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Publication Number" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 7 }
+	]
+}
